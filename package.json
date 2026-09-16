@@ -1,0 +1,13 @@
+{
+  "name": "linkbot",
+  "version": "1.0.0",
+  "description": "Discord link botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.4.5"
+  }
+}
